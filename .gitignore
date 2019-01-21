@@ -1,0 +1,5 @@
+.collabignore
+Library/
+Packages/
+ProjectSettings/
+Temp/
